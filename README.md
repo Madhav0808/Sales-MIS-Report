@@ -98,16 +98,6 @@ Based on the analysis:
 
 ---
 
-## 📸 Screenshots
-
-### Monthly Sales Trend
-![Monthly Sales](screenshots/monthly_sales_trend.png)
-
-### Regional Sales Performance
-![Regional Sales](screenshots/regional_sales.png)
-
-### Sales by Category
-![Category Sales](screenshots/category_sales.png)
 
 ---
 
