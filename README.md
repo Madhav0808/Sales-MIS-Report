@@ -97,7 +97,19 @@ Based on the analysis:
 4. **Focus promotions in November–December** when sales naturally spike — maximize revenue during peak season
 
 ---
+## 📊 Power BI Dashboard
 
+### Interactive KPI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+**Visuals built:**
+- 4 KPI Cards — Total Revenue, Total Orders, Avg Order Value, Top Region
+- Monthly Sales Trend line chart (2015–2018)
+- Sales by Region bar chart
+- Sales by Category donut chart
+- Year and Category interactive slicers
+
+**Tools:** Power BI Desktop, DAX Measures
 
 ---
 
